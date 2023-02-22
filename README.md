@@ -20,7 +20,9 @@
 ## Run Code 
 
 1 pip install -r requirements.txt
+
 2 pip install -U NumPy
+
 3 python assignment_2.py
 
 
